@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsiagoKev
 - 👀 I’m interested in GameDev, IoT, Embedded systems, Graphics/UI/UX
-- 🌱 I’m currently learning GameDev
+- 🌱 I’m currently learning SoftwareEngineering
 - 📫 How to reach me Earth 03
 - 😄 Pronouns: GitHub
 
